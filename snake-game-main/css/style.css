@@ -68,3 +68,9 @@ canvas {
     gap: 5px;
     cursor: pointer;
 }
+
+a {
+    text-decoration:none;
+    color: #333;
+}
+
